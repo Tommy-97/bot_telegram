@@ -1,0 +1,13 @@
+{
+    "state": 0,
+    "params": {
+        "version": 2,
+        "curr": "rub",
+        "spp": 30,
+        "dest": -1257786,
+        "payloadVersion": 1
+    },
+    "data": {
+        "products": []
+    }
+}
